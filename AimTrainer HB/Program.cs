@@ -762,223 +762,223 @@ public class InputOperations
     public enum VirtualKeyShort : short
     {
         /// <summary>
-		/// Left mouse button
-		/// </summary>
+        /// Left mouse button
+        /// </summary>
         VK_LBUTTON = 0x01,
 
         /// <summary>
-		/// Right mouse button
-		/// </summary>
+        /// Right mouse button
+        /// </summary>
         VK_RBUTTON = 0x02,
 
         /// <summary>
-		/// Control-break processing
-		/// </summary>
+        /// Control-break processing
+        /// </summary>
         VK_CANCEL = 0x03,
 
         /// <summary>
-		/// Middle mouse button
-		/// </summary>
+        /// Middle mouse button
+        /// </summary>
         VK_MBUTTON = 0x04,
 
         /// <summary>
-		/// X1 mouse button
-		/// </summary>
+        /// X1 mouse button
+        /// </summary>
         VK_XBUTTON1 = 0x05,
 
         /// <summary>
-		/// X2 mouse button
-		/// </summary>
+        /// X2 mouse button
+        /// </summary>
         VK_XBUTTON2 = 0x06,
 
         /// <summary>
-		/// BACKSPACE key
-		/// </summary>
+        /// BACKSPACE key
+        /// </summary>
         VK_BACK = 0x08,
 
         /// <summary>
-		/// TAB key
-		/// </summary>
+        /// TAB key
+        /// </summary>
         VK_TAB = 0x09,
 
         /// <summary>
-		/// CLEAR key
-		/// </summary>
+        /// CLEAR key
+        /// </summary>
         VK_CLEAR = 0x0C,
 
         /// <summary>
-		/// ENTER key
-		/// </summary>
+        /// ENTER key
+        /// </summary>
         VK_RETURN = 0x0D,
 
         /// <summary>
-		/// SHIFT key
-		/// </summary>
+        /// SHIFT key
+        /// </summary>
         VK_SHIFT = 0x10,
 
         /// <summary>
-		/// CTRL key
-		/// </summary>
+        /// CTRL key
+        /// </summary>
         VK_CONTROL = 0x11,
 
         /// <summary>
-		/// ALT key
-		/// </summary>
+        /// ALT key
+        /// </summary>
         VK_MENU = 0x12,
 
         /// <summary>
-		/// PAUSE key
-		/// </summary>
+        /// PAUSE key
+        /// </summary>
         VK_PAUSE = 0x13,
 
         /// <summary>
-		/// CAPS LOCK key
-		/// </summary>
+        /// CAPS LOCK key
+        /// </summary>
         VK_CAPITAL = 0x14,
 
         /// <summary>
-		/// IME Kana mode
-		/// </summary>
+        /// IME Kana mode
+        /// </summary>
         VK_KANA = 0x15,
 
         /// <summary>
-		/// IME Hangul mode
-		/// </summary>
+        /// IME Hangul mode
+        /// </summary>
         VK_HANGUL = 0x15,
 
         /// <summary>
-		/// IME On
-		/// </summary>
+        /// IME On
+        /// </summary>
         VK_IME_ON = 0x16,
 
         /// <summary>
-		/// IME Junja mode
-		/// </summary>
+        /// IME Junja mode
+        /// </summary>
         VK_JUNJA = 0x17,
 
         /// <summary>
-		/// IME final mode
-		/// </summary>
+        /// IME final mode
+        /// </summary>
         VK_FINAL = 0x18,
 
         /// <summary>
-		/// IME Hanja mode
-		/// </summary>
+        /// IME Hanja mode
+        /// </summary>
         VK_HANJA = 0x19,
 
         /// <summary>
-		/// IME Kanji mode
-		/// </summary>
+        /// IME Kanji mode
+        /// </summary>
         VK_KANJI = 0x19,
 
         /// <summary>
-		/// IME Off
-		/// </summary>
+        /// IME Off
+        /// </summary>
         VK_IME_OFF = 0x1A,
 
         /// <summary>
-		/// ESC key
-		/// </summary>
+        /// ESC key
+        /// </summary>
         VK_ESCAPE = 0x1B,
 
         /// <summary>
-		/// IME convert
-		/// </summary>
+        /// IME convert
+        /// </summary>
         VK_CONVERT = 0x1C,
 
         /// <summary>
-		/// IME nonconvert
-		/// </summary>
+        /// IME nonconvert
+        /// </summary>
         VK_NONCONVERT = 0x1D,
 
         /// <summary>
-		/// IME accept
-		/// </summary>
+        /// IME accept
+        /// </summary>
         VK_ACCEPT = 0x1E,
 
         /// <summary>
-		/// IME mode change request
-		/// </summary>
+        /// IME mode change request
+        /// </summary>
         VK_MODECHANGE = 0x1F,
 
         /// <summary>
-		/// SPACEBAR
-		/// </summary>
+        /// SPACEBAR
+        /// </summary>
         VK_SPACE = 0x20,
 
         /// <summary>
-		/// PAGE UP key
-		/// </summary>
+        /// PAGE UP key
+        /// </summary>
         VK_PRIOR = 0x21,
 
         /// <summary>
-		/// PAGE DOWN key
-		/// </summary>
+        /// PAGE DOWN key
+        /// </summary>
         VK_NEXT = 0x22,
 
         /// <summary>
-		/// END key
-		/// </summary>
+        /// END key
+        /// </summary>
         VK_END = 0x23,
 
         /// <summary>
-		/// HOME key
-		/// </summary>
+        /// HOME key
+        /// </summary>
         VK_HOME = 0x24,
 
         /// <summary>
-		/// LEFT ARROW key
-		/// </summary>
+        /// LEFT ARROW key
+        /// </summary>
         VK_LEFT = 0x25,
 
         /// <summary>
-		/// UP ARROW key
-		/// </summary>
+        /// UP ARROW key
+        /// </summary>
         VK_UP = 0x26,
 
         /// <summary>
-		/// RIGHT ARROW key
-		/// </summary>
+        /// RIGHT ARROW key
+        /// </summary>
         VK_RIGHT = 0x27,
 
         /// <summary>
-		/// DOWN ARROW key
-		/// </summary>
+        /// DOWN ARROW key
+        /// </summary>
         VK_DOWN = 0x28,
 
         /// <summary>
-		/// SELECT key
-		/// </summary>
+        /// SELECT key
+        /// </summary>
         VK_SELECT = 0x29,
 
         /// <summary>
-		/// PRINT key
-		/// </summary>
+        /// PRINT key
+        /// </summary>
         VK_PRINT = 0x2A,
 
         /// <summary>
-		/// EXECUTE key
-		/// </summary>
+        /// EXECUTE key
+        /// </summary>
         VK_EXECUTE = 0x2B,
 
         /// <summary>
-		/// PRINT SCREEN key
-		/// </summary>
+        /// PRINT SCREEN key
+        /// </summary>
         VK_SNAPSHOT = 0x2C,
 
         /// <summary>
-		/// INS key
-		/// </summary>
+        /// INS key
+        /// </summary>
         VK_INSERT = 0x2D,
 
         /// <summary>
-		/// DEL key
-		/// </summary>
+        /// DEL key
+        /// </summary>
         VK_DELETE = 0x2E,
 
         /// <summary>
-		/// HELP key
-		/// </summary>
+        /// HELP key
+        /// </summary>
         VK_HELP = 0x2F,
 
         VK_0 = 0x30,
@@ -1019,23 +1019,23 @@ public class InputOperations
         VK_Z = 0x5A,
 
         /// <summary>
-		/// Left Windows key
-		/// </summary>
+        /// Left Windows key
+        /// </summary>
         VK_LWIN = 0x5B,
 
         /// <summary>
-		/// Right Windows key
-		/// </summary>
+        /// Right Windows key
+        /// </summary>
         VK_RWIN = 0x5C,
 
         /// <summary>
-		/// Applications key
-		/// </summary>
+        /// Applications key
+        /// </summary>
         VK_APPS = 0x5D,
 
         /// <summary>
-		/// Computer Sleep key
-		/// </summary>
+        /// Computer Sleep key
+        /// </summary>
         VK_SLEEP = 0x5F,
 
         VK_NUMPAD0 = 0x60,
@@ -1050,33 +1050,33 @@ public class InputOperations
         VK_NUMPAD9 = 0x69,
 
         /// <summary>
-		/// Numpad Multiply key
-		/// </summary>
+        /// Numpad Multiply key
+        /// </summary>
         VK_MULTIPLY = 0x6A,
 
         /// <summary>
-		/// Numpad Add key
-		/// </summary>
+        /// Numpad Add key
+        /// </summary>
         VK_ADD = 0x6B,
 
         /// <summary>
-		/// Numpad Separator key
-		/// </summary>
+        /// Numpad Separator key
+        /// </summary>
         VK_SEPARATOR = 0x6C,
 
         /// <summary>
-		/// Numpad Subtract key
-		/// </summary>
+        /// Numpad Subtract key
+        /// </summary>
         VK_SUBTRACT = 0x6D,
 
         /// <summary>
-		/// Numpad Decimal key
-		/// </summary>
+        /// Numpad Decimal key
+        /// </summary>
         VK_DECIMAL = 0x6E,
 
         /// <summary>
-		/// Numpad Divide key
-		/// </summary>
+        /// Numpad Divide key
+        /// </summary>
         VK_DIVIDE = 0x6F,
 
         VK_F1 = 0x70,
@@ -1105,253 +1105,253 @@ public class InputOperations
         VK_F24 = 0x87,
 
         /// <summary>
-		/// NUM LOCK key
-		/// </summary>
+        /// NUM LOCK key
+        /// </summary>
         VK_NUMLOCK = 0x90,
 
         /// <summary>
-		/// SCROLL LOCK key
-		/// </summary>
+        /// SCROLL LOCK key
+        /// </summary>
         VK_SCROLL = 0x91,
 
         /// <summary>
-		/// Left SHIFT key
-		/// </summary>
+        /// Left SHIFT key
+        /// </summary>
         VK_LSHIFT = 0xA0,
 
         /// <summary>
-		/// Right SHIFT key
-		/// </summary>
+        /// Right SHIFT key
+        /// </summary>
         VK_RSHIFT = 0xA1,
 
         /// <summary>
-		/// Left CONTROL key
-		/// </summary>
+        /// Left CONTROL key
+        /// </summary>
         VK_LCONTROL = 0xA2,
 
         /// <summary>
-		/// Right CONTROL key
-		/// </summary>
+        /// Right CONTROL key
+        /// </summary>
         VK_RCONTROL = 0xA3,
 
         /// <summary>
-		/// Left ALT key
-		/// </summary>
+        /// Left ALT key
+        /// </summary>
         VK_LMENU = 0xA4,
 
         /// <summary>
-		/// Right ALT key
-		/// </summary>
+        /// Right ALT key
+        /// </summary>
         VK_RMENU = 0xA5,
 
         /// <summary>
-		/// Browser Back key
-		/// </summary>
+        /// Browser Back key
+        /// </summary>
         VK_BROWSER_BACK = 0xA6,
 
         /// <summary>
-		/// Browser Forward key
-		/// </summary>
+        /// Browser Forward key
+        /// </summary>
         VK_BROWSER_FORWARD = 0xA7,
 
         /// <summary>
-		/// Browser Refresh key
-		/// </summary>
+        /// Browser Refresh key
+        /// </summary>
         VK_BROWSER_REFRESH = 0xA8,
 
         /// <summary>
-		/// Browser Stop key
-		/// </summary>
+        /// Browser Stop key
+        /// </summary>
         VK_BROWSER_STOP = 0xA9,
 
         /// <summary>
-		/// Browser Search key
-		/// </summary>
+        /// Browser Search key
+        /// </summary>
         VK_BROWSER_SEARCH = 0xAA,
 
         /// <summary>
-		/// Browser Favorites key
-		/// </summary>
+        /// Browser Favorites key
+        /// </summary>
         VK_BROWSER_FAVOTITES = 0xAB,
 
         /// <summary>
-		/// Browser Start and Home key
-		/// </summary>
+        /// Browser Start and Home key
+        /// </summary>
         VK_BROWSER_HOME = 0xAC,
 
         /// <summary>
-		/// Volume Mute key
-		/// </summary>
+        /// Volume Mute key
+        /// </summary>
         VK_VOLUME_MUTE = 0xAD,
 
         /// <summary>
-		/// Volume Down key
-		/// </summary>
+        /// Volume Down key
+        /// </summary>
         VK_VOLUME_DOWN = 0xAE,
 
         /// <summary>
-		/// Volume Up key
-		/// </summary>
+        /// Volume Up key
+        /// </summary>
         VK_VOLUME_UP = 0xAF,
 
         /// <summary>
-		/// Next Track key
-		/// </summary>
+        /// Next Track key
+        /// </summary>
         VK_MEDIA_NEXT_TRACK = 0xB0,
 
         /// <summary>
-		/// Previous Track key
-		/// </summary>
+        /// Previous Track key
+        /// </summary>
         VK_MEDIA_PREV_TRACK = 0xB1,
 
         /// <summary>
-		/// Stop Media key
-		/// </summary>
+        /// Stop Media key
+        /// </summary>
         VK_MEDIA_STOP = 0xB2,
 
         /// <summary>
-		/// Play/Pause Media key
-		/// </summary>
+        /// Play/Pause Media key
+        /// </summary>
         VK_MEDIA_PLAY_PAUSE = 0xB3,
 
         /// <summary>
-		/// Start Mail key
-		/// </summary>
+        /// Start Mail key
+        /// </summary>
         VK_LAUNCH_MAIL = 0xB4,
 
         /// <summary>
-		/// Start Media key
-		/// </summary>
+        /// Start Media key
+        /// </summary>
         VK_LAUNCH_MEDIA_SELECT = 0xB5,
 
         /// <summary>
-		/// Start Application 1 key
-		/// </summary>
+        /// Start Application 1 key
+        /// </summary>
         VK_LAUNCH_APP1 = 0xB6,
 
         /// <summary>
-		/// Start Application 2 key
-		/// </summary>
+        /// Start Application 2 key
+        /// </summary>
         VK_LAUNCH_APP2 = 0xB7,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the ;: key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the ;: key
+        /// </summary>
         VK_OEM_1 = 0xBA,
 
         /// <summary>
-		/// For any country/region, the + key
-		/// </summary>
+        /// For any country/region, the + key
+        /// </summary>
         VK_OEM_PLUS = 0xBB,
 
         /// <summary>
-		/// For any country/region, the , key
-		/// </summary>
+        /// For any country/region, the , key
+        /// </summary>
         VK_OEM_COMMA = 0xBC,
 
         /// <summary>
-		/// For any country/region, the - key
-		/// </summary>
+        /// For any country/region, the - key
+        /// </summary>
         VK_OEM_MINUS = 0xBD,
 
         /// <summary>
-		/// For any country/region, the . key
-		/// </summary>
+        /// For any country/region, the . key
+        /// </summary>
         VK_OEM_PERIOD = 0xBE,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the /? key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the /? key
+        /// </summary>
         VK_OEM_2 = 0xBF,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the `~ key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the `~ key
+        /// </summary>
         VK_OEM_3 = 0xC0,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the [{ key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the [{ key
+        /// </summary>
         VK_OEM_4 = 0xDB,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the \\| key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the \\| key
+        /// </summary>
         VK_OEM_5 = 0xDC,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the ]} key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the ]} key
+        /// </summary>
         VK_OEM_6 = 0xDD,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the '\" key
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard. For the US standard keyboard, the '\" key
+        /// </summary>
         VK_OEM_7 = 0xDE,
 
         /// <summary>
-		/// Used for miscellaneous characters; it can vary by keyboard.
-		/// </summary>
+        /// Used for miscellaneous characters; it can vary by keyboard.
+        /// </summary>
         VK_OEM_8 = 0xDF,
 
         /// <summary>
-		/// The <> keys on the US standard keyboard, or the \\| key on the non-US 102-key keyboard
-		/// </summary>
+        /// The <> keys on the US standard keyboard, or the \\| key on the non-US 102-key keyboard
+        /// </summary>
         VK_OEM_102 = 0xE2,
 
         /// <summary>
-		/// IME PROCESS key
-		/// </summary>
+        /// IME PROCESS key
+        /// </summary>
         VK_PROCESSKEY = 0xE5,
 
         /// <summary>
-		/// Used to pass Unicode characters as if they were keystrokes. The VK_PACKET key is the low word of a 32-bit Virtual Key value used for non-keyboard input methods. For more information, see Remark in KEYBDINPUT, SendInput, WM_KEYDOWN, and WM_KEYUP
-		/// </summary>
+        /// Used to pass Unicode characters as if they were keystrokes. The VK_PACKET key is the low word of a 32-bit Virtual Key value used for non-keyboard input methods. For more information, see Remark in KEYBDINPUT, SendInput, WM_KEYDOWN, and WM_KEYUP
+        /// </summary>
         VK_PACKET = 0xE7,
 
         /// <summary>
-		/// Attn key
-		/// </summary>
+        /// Attn key
+        /// </summary>
         VK_ATTN = 0xF6,
 
         /// <summary>
-		/// CrSel key
-		/// </summary>
+        /// CrSel key
+        /// </summary>
         VK_CRSEL = 0xF7,
 
         /// <summary>
-		/// ExSel key
-		/// </summary>
+        /// ExSel key
+        /// </summary>
         VK_EXSEL = 0xF8,
 
         /// <summary>
-		/// Erase EOF key
-		/// </summary>
+        /// Erase EOF key
+        /// </summary>
         VK_EREOF = 0xF9,
 
         /// <summary>
-		/// Play key
-		/// </summary>
+        /// Play key
+        /// </summary>
         VK_PLAY = 0xFA,
 
         /// <summary>
-		/// Zoom key
-		/// </summary>
+        /// Zoom key
+        /// </summary>
         VK_ZOOM = 0xFB,
 
         /// <summary>
-		/// Reserved
-		/// </summary>
+        /// Reserved
+        /// </summary>
         VK_NONAME = 0xFC,
 
         /// <summary>
-		/// PA1 key
-		/// </summary>
+        /// PA1 key
+        /// </summary>
         VK_PA1 = 0xFD,
 
         /// <summary>
-		/// Clear key
-		/// </summary>
+        /// Clear key
+        /// </summary>
         VK_OEM_CLEAR = 0xFE
     }
     #endregion
