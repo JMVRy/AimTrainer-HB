@@ -42,7 +42,7 @@
     <a href="https://github.com/JMVRy/AimTrainer-HB"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JMVRy/AimTrainer-HB">View Demo</a>
+    <a href="#usage">View Demo</a>
     ·
     <a href="https://github.com/JMVRy/AimTrainer-HB/issues">Report Bug</a>
     ·
@@ -87,8 +87,6 @@
 
 This project is made to cheat at the [Aim Trainer on HumanBenchmark.com][trainer-hb] using Windows' Win32 API for moving the mouse and clicking the targets. It's not extremely fast or anything, moreso just a way to expand my experience with C# and figure out how to use external libraries for my own projects.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `JMVRy`, `AimTrainer-HB`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,9 +103,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 To run the program on your own machine, follow the following steps.
 
 ### Prerequisites
@@ -115,15 +110,15 @@ To run the program on your own machine, follow the following steps.
 This is an example of how to list things you need to use the software and how to install them.
 This is a list on all the things you need, in order to run the software on your own machine
 * Windows 7/8/10/11/Above
-  Any Windows version should work, but I'd suggest 7 or above, because I can't be certain if any version below 7 will work.
+** Any Windows version should work, but I'd suggest 7 or above, because I can't be certain if any version below 7 will work.
 * Visual Studio 2022
-  Go to https://visualstudio.microsoft.com and download Visual Studio 2022
+** Go to https://visualstudio.microsoft.com and download Visual Studio 2022
 * NuGet
-  Visual Studio 2022 comes pre-installed with NuGet, but if you're using something else like VSCode, then Google or DuckDuckGo is your best friend.
+** Visual Studio 2022 comes pre-installed with NuGet, but if you're using something else like VSCode, then Google or DuckDuckGo is your best friend.
 * ScreenCapture.NET
-  This project utilizes a NuGet package called ScreenCapture.NET by DarthAffe, which can also be found at [this GitHub repository](https://github.com/DarthAffe/ScreenCapture.NET) or at [this NuGet package][ScreenCapture.NET].
+** This project utilizes a NuGet package called ScreenCapture.NET by DarthAffe, which can also be found at [this GitHub repository](https://github.com/DarthAffe/ScreenCapture.NET) or at [this NuGet package][ScreenCapture.NET].
 * ScreenCapture.NET.DX11
-  This project also currently utilizes ScreenCapture.NET.DX11, which is a DirectX 11 specific way of capturing a screenshot, found at [this NuGet package][ScreenCapture.NET.DX11] or [their GitHub repository](https://github.com/DarthAffe/ScreenCapture.NET).
+** This project also currently utilizes ScreenCapture.NET.DX11, which is a DirectX 11 specific way of capturing a screenshot, found at [this NuGet package][ScreenCapture.NET.DX11] or [their GitHub repository](https://github.com/DarthAffe/ScreenCapture.NET).
 
 ### Installation
 
@@ -148,8 +143,8 @@ This is a list on all the things you need, in order to run the software on your 
    In Visual Studio, go to Project>[Your project name] Properties and change "Platform target" to x64. I am unsure if x86 is supported.
    ```
 1. Change any pixel locations that are different for your own machine
-   Because this project was made for my own machine and the exact locations and sizes of my monitors, it may not work as well for your own computer. As long as you are using Firefox, have the Bookmark Toolbar shown, keep the screen Maximized but not Fullscreen, use a 1080p monitor (as well as making sure that this is the last monitor if you use multiple), possibly even have the toolbar hidden, have the Windows Night Light turned off (turns the screen more orange/red), and keep the webpage at 100% zoom, then it should work fine.
-   If your system does not support DirectX 11, then I suggest trying [ScreenCapture.NET.X11](https://www.nuget.org/packages/ScreenCapture.NET.X11) or [ScreenCapture.NET.DX9](https://www.nuget.org/packages/ScreenCapture.NET.DX9), then changing any code mentioning "DX11" to whichever you've chosen.
+** Because this project was made for my own machine and the exact locations and sizes of my monitors, it may not work as well for your own computer. As long as you are using Firefox, have the Bookmark Toolbar shown, keep the screen Maximized but not Fullscreen, use a 1080p monitor (as well as making sure that this is the last monitor if you use multiple), possibly even have the toolbar hidden, have the Windows Night Light turned off (turns the screen more orange/red), and keep the webpage at 100% zoom, then it should work fine.
+** If your system does not support DirectX 11, then I suggest trying [ScreenCapture.NET.X11](https://www.nuget.org/packages/ScreenCapture.NET.X11) or [ScreenCapture.NET.DX9](https://www.nuget.org/packages/ScreenCapture.NET.DX9), then changing any code mentioning "DX11" to whichever you've chosen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,11 +163,6 @@ _For more examples, please refer to the [TODO: Documentation](https://example.co
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
 
 See the [open issues](https://github.com/JMVRy/AimTrainer-HB/issues) for a full list of proposed features (and known issues).
 
@@ -222,7 +212,7 @@ Project Link: [https://github.com/JMVRy/AimTrainer-HB](https://github.com/JMVRy/
 ## Acknowledgments
 
 * [Microsoft for the Operating System](https://microsoft.com)
-* [Windows for the API](https://microsoft.com/en-us/windows
+* [Windows for the API](https://microsoft.com/en-us/windows)
 * [DarthAffe for the Screenshotting tool](https://github.com/DarthAffe)
 * [ShareX for telling me exact pixel locations to help with exactly where to screenshot](https://getsharex.com)
 
