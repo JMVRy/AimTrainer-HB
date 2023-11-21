@@ -260,7 +260,7 @@ Project Link: [https://github.com/JMVRy/AimTrainer-HB](https://github.com/JMVRy/
 [JQuery-url]: https://jquery.com 
 [CSharp]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&color=512BD4
 [CSharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-[Windows]: https://img.shields.io.badge/windows-0078D4?style=for-the-badge&logo=windows&color=0078D4
+[Windows]: https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&color=0078D4
 [Windows-url]: https://microsoft.com/en-us/windows
 
 [repo-url]: https://github.com/JMVRy/AimTrainer-HB
