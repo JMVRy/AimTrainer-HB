@@ -155,7 +155,7 @@ This is a list on all the things you need, in order to run the software on your 
 
 This project is primarily made for the [Aim Trainer on HumanBenchmark][trainer-hb], as well as being specific to my own monitor setup. If you've followed the Installation setup and there's no more problems, then it should just be plug-and-play. Build and run, and any pixel with that specific shade of blue (`#95c3e8`) will be clicked, as long as it's within the 1000x400 box that contains the targets.
 
-_For more examples, please refer to the [TODO: Documentation](https://example.com)_
+_For examples, please refer to the [Documentation](https://github.com/JMVRy/AimTrainer-HB/wiki/Documentation)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
