@@ -39,7 +39,7 @@
   <p align="center">
     A tool to cheat at the <a href="https://humanbenchmark.com/tests/aim">Aim Trainer on HumanBenchmark.com</a>
     <br />
-    <a href="https://github.com/JMVRy/AimTrainer-HB"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JMVRy/AimTrainer-HB/wiki/Documentation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#usage">View Demo</a>
