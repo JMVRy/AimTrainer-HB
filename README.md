@@ -221,6 +221,12 @@ Project Link: [https://github.com/JMVRy/AimTrainer-HB](https://github.com/JMVRy/
 
 
 
+<hr />
+
+<sup>This README was made with the [Best README Template repository](https://github.com/othneildrew/Best-README-Template).</sup>
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/JMVRy/AimTrainer-HB.svg?style=for-the-badge
